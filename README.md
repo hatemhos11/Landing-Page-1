@@ -1,7 +1,4 @@
-<p align="center">
-
 # Landing-Page-1
-</p>
 
 <p align="center">
   <img src="./images/show2.png" />
