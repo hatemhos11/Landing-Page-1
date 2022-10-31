@@ -1,5 +1,5 @@
 # Landing-Page-1
-
+![landing page](./images/show.png)
 
 ## Project Demo
 - https://hatemhos11.github.io/Landing-Page-1
