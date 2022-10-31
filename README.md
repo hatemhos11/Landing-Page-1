@@ -1,6 +1,10 @@
 # Landing-Page-1
-![landing page](./images/show2.png)
-![landing page](./images/show.png)
+<p align="center">
+  <img src="./images/show2.png" />
+</p>
+<p align="center">
+  <img src="./images/show.png" />
+</p>
 
 ## Project Demo
 - https://hatemhos11.github.io/Landing-Page-1
